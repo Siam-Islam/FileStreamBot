@@ -14,8 +14,6 @@
     ],
   "repository": "https://github.com/Siam-Islam/FileStreamBot/",
   "success_url": "/",
-  "logo": "",
-  "website": "",
   "env": {
       "ENV": {
           "description": "Set this to True if you don't want to crash the bot",
